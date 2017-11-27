@@ -71,7 +71,7 @@
         <string>application/x-vivo-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>vivocoinmentrequest</string>
+          <string>vivopaymentrequest</string>
         </array>
       </dict>
     </dict>
